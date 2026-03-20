@@ -84,7 +84,7 @@
 				30B30FEEF245477B8F28B9A2 /* ClaritySpendApp.swift */,
 				E3796FA351D14A0B88239B24 /* ContentView.swift */,
 			);
-			path = App;
+			path = ClaritySpend/App;
 			sourceTree = "<group>";
 		};
 		AA37662734E64B18AE5C177D /* Models */ = {
@@ -94,7 +94,7 @@
 				FC10D76C0DC645F4B26640D1 /* Budget.swift */,
 				3017836213AD4455A18DD46B /* Account.swift */,
 			);
-			path = Models;
+			path = ClaritySpend/Models;
 			sourceTree = "<group>";
 		};
 		9837DB2A0323429192512BF3 /* ViewModels */ = {
@@ -103,7 +103,7 @@
 				AD007554DA034FAD8A1F2F9C /* TransactionViewModel.swift */,
 				D272E2EC741E4458A2DC3F48 /* InsightsViewModel.swift */,
 			);
-			path = ViewModels;
+			path = ClaritySpend/ViewModels;
 			sourceTree = "<group>";
 		};
 		DFE9B507109643DEAD588132 /* Views */ = {
@@ -116,7 +116,7 @@
 				B0199771C5D749B1A05C2925 /* Settings */,
 				CF0B0F8D0CA84FEA973B4715 /* Components */,
 			);
-			path = Views;
+			path = ClaritySpend/Views;
 			sourceTree = "<group>";
 		};
 		AB20C828D62943EBB3622D50 /* Dashboard */ = {
@@ -173,7 +173,7 @@
 			children = (
 				9B684F53959540EC8CF85D77 /* PersistenceController.swift */,
 			);
-			path = Persistence;
+			path = ClaritySpend/Persistence;
 			sourceTree = "<group>";
 		};
 		5ED17002B5014C23B21A1D89 /* Resources */ = {
@@ -181,7 +181,7 @@
 			children = (
 				A8772200F6EF4D72BB1CC6DA /* Assets.xcassets */,
 			);
-			path = Resources;
+			path = ClaritySpend/Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

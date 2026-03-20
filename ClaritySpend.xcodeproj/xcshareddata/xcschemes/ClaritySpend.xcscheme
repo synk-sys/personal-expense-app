@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CLARITYSPEND00000TARGET"
+               BlueprintIdentifier = "407C5F4E07EA40CFA224F9CF"
                BuildableName = "ClaritySpend.app"
                BlueprintName = "ClaritySpend"
                ReferencedContainer = "container:ClaritySpend.xcodeproj">
@@ -43,7 +43,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CLARITYSPEND00000TARGET"
+            BlueprintIdentifier = "407C5F4E07EA40CFA224F9CF"
             BuildableName = "ClaritySpend.app"
             BlueprintName = "ClaritySpend"
             ReferencedContainer = "container:ClaritySpend.xcodeproj">
@@ -60,7 +60,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CLARITYSPEND00000TARGET"
+            BlueprintIdentifier = "407C5F4E07EA40CFA224F9CF"
             BuildableName = "ClaritySpend.app"
             BlueprintName = "ClaritySpend"
             ReferencedContainer = "container:ClaritySpend.xcodeproj">
